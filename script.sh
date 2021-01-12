@@ -9,4 +9,4 @@ echo "Installing Discord"
 sudo snap install discord
 echo "Installing Visual studio code "
 sudo snap install code 
-echo " Bien joué mec ! "
+echo " All good, enjoy ! "
