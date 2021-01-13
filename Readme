@@ -1,0 +1,15 @@
+Bonjour, bienvenue dans ce script.
+
+Ce script va devoir être éxécuté dans un terminal sous Debian.
+
+Une fois la commande : ./script.sh effectuer ce script vous installera automatiquement les programmes suivants :
+
+- Git avec les extras.
+- Python 3 avec les pip.
+- Microsoft Visual code studio.
+- Discord.
+
+Bonne installation et enjoy !
+
+
+
