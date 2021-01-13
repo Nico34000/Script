@@ -15,6 +15,9 @@ echo "Installing Discord"
 # Ligne qui permet d'installer Discord
 sudo snap install discord
 # L'utilisateur est prévenu que maintenant nous installerons Visual studio code
+#Format Snap
+
+#Le format snap vise à permettre l'installation de nouvelles versions de logiciels dans les systèmes Linux.
 echo "Installing Visual studio code "
 # Ligne qui permet d'installer Visual code studio
 sudo snap install code 
